@@ -1,0 +1,132 @@
+.news{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #f1f9ff;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+.news-top{
+    position: relative;
+    margin-left: 170px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    letter-spacing: 0.05em;
+    color: #3E4554;
+}
+.navigation a {
+    text-decoration: none; /* Убираем подчёркивание */
+    color: #3E4554;
+}
+
+.navigation ul{
+    margin-left: 120px;
+}
+.navigation li{
+    margin-left: 10px;
+    display:inline-block;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+}
+.btn-1,.btn-2,.btn-3{
+    display:inline-block;
+
+    border-radius: 25px;
+    margin-top: 36px;
+    font-size: 16px;
+    font-weight: 900;
+    background-color: #ffffff;
+    border: none;
+    height: 120px;
+    width: 225px;
+}
+
+.news-btn{
+    margin-left: 10px;
+    text-align: left;
+    color: #464d5b;
+    font-weight: bold;
+    font-size: 11px;
+    letter-spacing: 0.05em;
+}
+.text-news{
+    margin-left: 10px;
+    text-align: left;
+    color:#959CB1;
+    font-weight: 500;
+    font-size: 9px;
+    letter-spacing: 0.05em;
+}
+.show-news a,.show-all a{
+    text-decoration: none;
+    color: #72a9f3;
+}
+.button-bottom{
+    display: flex;
+    flex-direction: row;
+}
+.show-news{
+    margin-left:10px;
+    font-weight: 500;
+    font-size: 9px;
+    letter-spacing: 0.05em;
+}
+.data-news{
+
+    margin-left: 103px;
+    color:#959CB1;
+    font-weight: 500;
+    font-size: 8px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+}
+
+.btn-1:hover{
+    color: #fff;
+    background: #2F80ED;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+.btn-2:hover{
+    color: #fff;
+    background: #2F80ED;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
+.btn-3:hover{
+    background: #2F80ED;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
+#b1:hover h3{
+    color: #ffffff;
+}
+#b1:hover p{
+    color: #ffffff;
+}
+.btn-1{
+    margin-left: 170px;
+}
+.btn-2,.btn-3{
+    margin-left: 20px;
+}
+
+.show-all{
+    margin-top: 42px;
+    margin-left: 170px;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+}
+.footer{
+    background: #12386B;
+}
